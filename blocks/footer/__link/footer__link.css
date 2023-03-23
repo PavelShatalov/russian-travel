@@ -3,18 +3,18 @@
   color: #FFF;
   padding: 0;
   margin: 0;
-  font-size: 16px;
-  line-height: 18px;
-  transition: 0.4s ease-in-out;
+  font-size: 14px;
+  line-height: 100%;
+  transition: 0.5s linear;
 }
 
 .footer__link:hover {
   opacity: 0.8;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 767px) {
   .footer__link {
     font-size: 24px;
-    line-height: 24px;
+    line-height: 100%;
   }
 }

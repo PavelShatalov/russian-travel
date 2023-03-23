@@ -1,12 +1,10 @@
-.place__link{
+.place__link {
   margin: 0;
   padding: 0;
   font-size: 18px;
-  line-height: 22px;
-  text-decoration-line: none;
-  border-bottom: 1px solid #FFF;
+  line-height: 122%;
   color: #FFF;
-  transition: 0.4s ease-in-out;
+  transition: 0.5s linear;
 }
 
 .place__link:hover {
